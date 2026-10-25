@@ -1,0 +1,4 @@
+interface:
+  display_name: "6.0 astra"
+  short_description: "高熵合金SCI论文写作：课题组叙事、英文句法与去防御性表达"
+  default_prompt: "使用 $6-0-astra，根据我的实验数据和图表，按课题组的写作思路起草高熵合金论文，表达直接、衔接自然。"
